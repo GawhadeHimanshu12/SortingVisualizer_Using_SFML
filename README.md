@@ -34,6 +34,11 @@ Dive into the mechanics of these sorting techniques:
 
 ## 🖼️ See it to Believe It! (Add Your Screenshots/GIFs Here)
 
+![SortingGIF](https://github.com/user-attachments/assets/3523984b-da32-4c88-8058-b13e5638ab67)
+
+![Screenshot 2025-05-18 004527](https://github.com/user-attachments/assets/1bae6662-6383-4e40-9fde-1c7c2962f4ff)
+
+
 This is where the visualizer truly shines! I strongly encourage you to add a few snapshots or a short GIF to showcase:
 
 * The main interface with the left UI panel and the bar display area.
